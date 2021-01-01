@@ -1,0 +1,48 @@
+body {
+    background-image: url(vipback.jpg);
+    background-size: cover;
+    position: relative;
+    overflow: hidden;
+    text-align: center;
+}
+
+.heading {
+    margin-top: 50px;
+    font-family: 'Playfair Display', serif;
+    font-size: 50px;
+}
+
+.btn {
+    background-color:red;
+    color: white;
+    border-radius: 10px;
+    font-size: 16px;
+    padding: 7px;
+    outline: none;
+}
+
+.btn:hover {
+    cursor: pointer;
+
+}
+
+#quote, #author {
+    position: relative;
+    left: 30%;
+    background-color: white;
+    width: 40%;
+}
+
+#quote {
+    margin-top: 20px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    font-size: 22px;
+}
+
+#author {
+    margin-bottom: 20px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    font-size: 16px;
+}

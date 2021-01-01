@@ -1,2 +1,2 @@
-# Qoute-Generator
+# Quote-Generator
 this project reflects random quotes
