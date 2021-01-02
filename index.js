@@ -32,7 +32,7 @@ function getQuote() {
     quote.innerHTML = quotes[randomNumber].quote;
     author.innerHTML = "By. " + quotes[randomNumber].author;
 
-    quote.stle.padding = "10px";
-    author.stle.padding = "10px";
+    quote.style.padding = "10px";
+    author.style.padding = "10px";
 
 }
